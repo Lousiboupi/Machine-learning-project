@@ -5,7 +5,7 @@ Level-up: The dataset is relatively "imbalanced". What does this imply? How can 
 
 Case study:​
 
-Gas fields in North America. The Hugoton and Panoma fields (see link for dataset)​
+Gas fields in North America. The Hugoton and Panoma fields.
 
 ​
 
