@@ -6,6 +6,8 @@ This mini-project focus on developing predictions using production data from a s
 
 **Case Study:** Well NO 15/9-F-1 C of the VOLVE field
 
+**Proposed Machine Learning Methods:** Linear regression / Ridge regression / Random Forest / Neural networks (Deep Learning) 
+
 ## The data 
 
 The data corresponds to production data of the well NO 15/9-F-1 C from the volve field. 
@@ -13,7 +15,7 @@ The dataset includes:
 
 
 
-**Proposed Machine Learning Approaches:** Linear regression / Ridge regression / Random Forest / Neural networks (Deep Learning) 
+
 
 
 
