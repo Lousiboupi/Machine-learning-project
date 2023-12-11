@@ -12,23 +12,23 @@ The data comes from VOLVE dataset owned by Equinor. The data encompasses 8 wells
 Data includes: </br>
 
 Independent variables:
-WELLNUM
-DEPTH
-DTC
-DTS
-BS
-CALI
-DEN
-DENC
-GR
-NEU
-PEF
-RDEP
-RMED
-PHIF
+- WELLNUM
+- DEPTH
+- DTC
+- DTS
+- BS
+- CALI
+- DEN
+- DENC
+- GR
+- NEU
+- PEF
+- RDEP
+- RMED
+- PHIF
 
 Dependent variables:
-SW
-VSH
+- SW
+- VSH
 
 DATA ACCESS AND USE: Creative Commons Attribution-NonCommercial-ShareAlike license.
