@@ -4,11 +4,11 @@ The relationship between petrophysical parameters, production conditions and hyd
 
 This mini-project focus on developing predictions using production data from a single well in the Volve field. The independent variables for this problem include downhole pressure, temperature and fluid production volumes. Participants are encouraged to apply diverse supervised ML techniques to forecast the hydrocarbon production of a well in the Volve field. ​
 
-**Case Study:** Well XXXX of the VOLVE field
+**Case Study:** Well NO 15/9-F-1 C of the VOLVE field
 
 ## The data 
 
-The data corresponds to production data of the well XXXX from the volve field. 
+The data corresponds to production data of the well NO 15/9-F-1 C from the volve field. 
 The dataset includes: 
 
 
