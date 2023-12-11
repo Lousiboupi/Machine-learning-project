@@ -13,8 +13,29 @@ This mini-project focus on developing predictions using production data from a s
 The data corresponds to production data of the well NO 15/9-F-1 C from the volve field. 
 The dataset includes: 
 
-
-
+- DATEPRD: Date of observation
+- WELL_BORE_CODE: Wellbore identifier
+- NPD_WELL_BORE_CODE: Wellbore code (Norwegian Petroleum Directorat) 
+- NPD_WELL_BORE_NAME: Wellbore name (Norwegian Petroleum Directorat) 
+- NPD_FIELD_CODE: Field code (Norwegian Petroleum Directorat) 
+- NPD_FIELD_NAME: Field name (Norwegian Petroleum Directorat) 
+- NPD_FACILITY_CODE: Facility code (Norwegian Petroleum Directorat) 
+- NPD_FACILITY_NAME: Facility name (Norwegian Petroleum Directorat) 
+- ON_STREAM_HRS: Total hours on stream (per day)
+- AVG_DOWNHOLE_PRESSURE: Average Downhole Pressure
+- AVG_DOWNHOLE_TEMPERATURE: Average Downhole Temperature
+- AVG_DP_TUBING: Average Differential Pressure of Tubing 
+- AVG_ANNULUS_PRESS: Average Annular Pressure
+- AVG_CHOKE_SIZE_P: Average Choke Size Percentage
+- AVG_CHOKE_UOM: Unit Of Measurement
+- AVG_WHP_P: Average Well Head Pressure
+- AVG_WHT_P: Average Well Head Temperature
+- BORE_OIL_VOL: Oil Volume from Well
+- BORE_GAS_VOL: Gas Volume from Well
+- BORE_WAT_VOL: Water Volume from Well
+- BORE_WI_VOL: Water Volume Injected 
+- FLOW_KIND: Type of flow (production / injection)
+- WELL_TYPE: Type of Well (oil production / water injection)
 
 
 
