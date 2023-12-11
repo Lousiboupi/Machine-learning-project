@@ -15,26 +15,26 @@ A subset of wells in the south of the Viking graben. 25 wells in total. These we
 - Z_LOC: DEPTH
 - GROUP: NPD (Norwegian Petroleum Directorate) Lithostratigraphy group
 - FORMATION: NPD (Norwegian Petroleum Directorate) Lithostratigraphy group
-- CALIPER
-- RSHA
-- RMED
-- RDEP
-- RHOB
-- GR
-- SGR
-- NPHI
-- PEF
-- DTC
-- SP
-- BS
-- ROP
-- DTS
-- DCAL
-- DRHO
-- MUDWEIGHT
-- RMIC
+- CALIPER: Caliper
+- RSHA: Shallow Resistivity
+- RMED: Medium Resistivity
+- RDEP: Deep Resistivity
+- RHOB: Bulk density
+- GR: Gamma Ray
+- SGR: Spectral Gamma Ray
+- NPHI: Neutron Porosity
+- PEF: Photoelectrics Absorption Factor
+- DTC: Sonic (Compresional Slowness)
+- SP: Spontaneous potential
+- BS: Bitsize
+- ROP: Rate Of Penetration
+- DTS: Sonic (Shear Slowness)
+- DCAL: Caliper deviation
+- DRHO: Density deviation
+- MUDWEIGHT: Mud weight 
+- RMIC : Microsopic resistivity.
 - ROPA: Rate Of Penetration Average
-- RXO
+- RXO: Flushe zone resistvity
 - FORCE_2020_LITHOFACIES_LITHOLOGY
 - FORCE_2020_LITHOFACIES_CONFIDENCE
 
